@@ -50,7 +50,7 @@ def compare():
         print("Emm.. the results don't match, something is wrong")
     file_c.close()
     file_halide.close()
-
+os.system("clear")
 print('\n')
 print("*******************************  WELCOME  *******************************\n")
 print("Are you excited to see our results?..Boom, boom, Drum roll\n")
