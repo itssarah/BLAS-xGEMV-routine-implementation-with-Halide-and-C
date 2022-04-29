@@ -40,7 +40,7 @@ For example : python script.py '~/Halide'
 **Note** : the script we provide can only be used with Halide installed from sources.
 To use it with Halide installed with binaries, you need to modify the script as  follows :
 - Open script.py 
-- Go to line 18.
+- Go to line 16.
 - Replace 'bin' with 'lib'.
 The script will compile both programs and run them, it will also check if the results are the same. If everything is okay, the output will be :
 ```
