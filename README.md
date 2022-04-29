@@ -68,10 +68,11 @@ Results :
 ```
 
 # ©️ License
-Team <br/>
+Team : <br/>
 - Melissa TESSA : https://www.linkedin.com/in/melissa-tessa-5a838a1b1/
 - Sarah ABCHICHE : https://www.linkedin.com/in/sarah-abchiche/ <br/>
-For more informations please refer to one of the members of the team **It's totally free for use under licens**
+<br/>
+For more informations please refer to one of the members of the team. **It's totally free for use.**
 
 
  
